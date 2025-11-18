@@ -60,7 +60,7 @@ Catatan: Secara default game berjalan di mode fullscreen. Ubah pengaturan di `__
 Anda dapat mengubah pengaturan kesulitan langsung di bagian atas `main.py`. Contoh format:
 ```python
 PENGATURAN_KESULITAN = {
-    KESULITAN_MUDAH: [90, 10],   # [total_waktu_detik, skor_per_soal]
+    KESULITAN_MUDAH: [90, 10],
     KESULITAN_SEDANG: [60, 15],
     KESULITAN_SULIT: [45, 20]
 }
