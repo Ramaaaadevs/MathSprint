@@ -1,4 +1,4 @@
-# MathSprint — Game Edukasi Aritmetika
+# MathSprint — Game Edukasi Kecepatan Aritmetika
 
 MathSprint adalah game edukasi sederhana dibuat dengan Python dan Pygame untuk melatih kecepatan berhitung operasi aritmetika dasar (tambah, kurang, kali, bagi) dalam mode Time Attack.
 
